@@ -1,0 +1,125 @@
+
+#a_stands > g > path {
+    fill: #ff7f00 !important;
+    transition: fill .2s ease;
+}
+#a_stands > g > text {
+    fill: #ff7f00 !important;
+    transition: fill .2s ease;
+    cursor: default;
+}
+
+#a_stands:hover > g > path {
+    fill: #ff9e40 !important;
+    transition: fill .2s ease;
+}
+
+#a_stands:hover > g > text {
+    fill: #603000 !important;
+    transition: fill .2s ease;
+}
+
+
+#b_stands > g > path {
+    fill: #ff4049 !important;
+    transition: fill .2s ease;
+}
+#b_stands > g > text {
+    fill: #ff4049 !important;
+    transition: fill .2s ease;
+    cursor: default;
+}
+
+#b_stands:hover > g > text {
+    fill: #c10009 !important;
+    transition: fill .2s ease;
+}
+#b_stands:hover > g > path {
+    fill: #ff8187 !important;
+    transition: fill .2s ease;
+}
+
+
+#c_stands > g > path {
+    fill: #bb37fe !important;
+    transition: fill .2s ease;
+}
+#c_stands > g > text {
+    fill: #bb37fe !important;
+    transition: fill .2s ease;
+    cursor: default;
+}
+#c_stands:hover > g > path {
+    fill: #d17afe !important;
+    transition: fill .2s ease;
+}
+#c_stands:hover > g > text {
+    fill: #7801b4 !important;
+    transition: fill .2s ease;
+}
+
+
+#d_stands > g > path {
+    fill: #7fbfff !important;
+    transition: fill .2s ease;
+}
+#d_stands > g > text {
+    fill: #7fbfff !important;
+    transition: fill .2s ease;
+    cursor: default;
+}
+#d_stands:hover > g > path {
+    fill: #bfdeff !important;
+    transition: fill .2s ease;
+}
+#d_stands:hover > g > text {
+    fill: #3f7fbf !important;
+    transition: fill .2s ease;
+}
+
+
+#e_stands > g > * {
+    fill: #ffffff00 !important;
+    stroke: #ffffff00 !important;;
+    transition: fill .2s ease;
+    cursor: default;
+}
+
+
+#f_stands > g > path {
+    fill: #2042eb !important;
+    transition: fill .2s ease;
+}
+#f_stands > g > text {
+    fill: #2042eb !important;
+    transition: fill .2s ease;
+    cursor: default;
+}
+#f_stands:hover > g > path {
+    fill: #5c75f0 !important;
+    transition: fill .2s ease;
+}
+#f_stands:hover > g > text {
+    fill: #0b2082 !important;
+    transition: fill .2s ease;
+}
+
+
+
+#g_stands > g > path {
+    fill: #01deea !important;
+    transition: fill .2s ease;
+}
+#g_stands > g > text {
+    fill: #01deea00 !important;
+    transition: fill .2s ease;
+    cursor: default;
+}
+#g_stands:hover > g > path {
+    fill: #72f7fe !important;
+    transition: fill .2s ease;
+}
+#g_stands:hover > g > text {
+    fill: #00b1bb !important;
+    transition: fill .2s ease;
+}
