@@ -1,4 +1,13 @@
 
+text {
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    -o-user-select: none;
+    user-select: none;
+}
+
 #a_stands > g > path {
     fill: #ff7f00 !important;
     transition: fill .2s ease;
@@ -8,7 +17,6 @@
     transition: fill .2s ease;
     cursor: default;
 }
-
 #a_stands:hover > g > path {
     fill: #ff9e40 !important;
     transition: fill .2s ease;
@@ -17,6 +25,9 @@
 #a_stands:hover > g > text {
     fill: #603000 !important;
     transition: fill .2s ease;
+}
+
+#a_stands > g > text:hover {
 }
 
 
@@ -50,11 +61,11 @@
     cursor: default;
 }
 #c_stands:hover > g > path {
-    fill: #d17afe !important;
+    fill: #d689fc !important;
     transition: fill .2s ease;
 }
 #c_stands:hover > g > text {
-    fill: #7801b4 !important;
+    fill: #660397 !important;
     transition: fill .2s ease;
 }
 
@@ -73,7 +84,7 @@
     transition: fill .2s ease;
 }
 #d_stands:hover > g > text {
-    fill: #3f7fbf !important;
+    fill: #134980 !important;
     transition: fill .2s ease;
 }
 
@@ -96,11 +107,11 @@
     cursor: default;
 }
 #f_stands:hover > g > path {
-    fill: #5c75f0 !important;
+    fill: #798ef5 !important;
     transition: fill .2s ease;
 }
 #f_stands:hover > g > text {
-    fill: #0b2082 !important;
+    fill: #071866 !important;
     transition: fill .2s ease;
 }
 
@@ -116,10 +127,10 @@
     cursor: default;
 }
 #g_stands:hover > g > path {
-    fill: #72f7fe !important;
+    fill: #a2faff !important;
     transition: fill .2s ease;
 }
 #g_stands:hover > g > text {
-    fill: #00b1bb !important;
+    fill: #04686d !important;
     transition: fill .2s ease;
 }
